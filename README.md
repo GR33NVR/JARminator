@@ -3,7 +3,7 @@ An app to rip/export `.jar` files into a `.zip` for editing or modification.
 
 ## Installation
 
-1. Download the latest [release](https://github.com/yourusername/JARminator/releases).
+1. Download the latest [release](https://github.com/GR33NVR/JARminator/releases).
 2. Run `JARminator.exe`.
 
 ## How To Use
