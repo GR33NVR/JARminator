@@ -26,3 +26,7 @@ All rights reserved.
 
 This software is proprietary and may not be copied, modified, distributed, or used in whole or in part without the prior written permission of the author.
 For more information see the [LICENSE](LICENSE) file.
+
+
+## Screenshots
+![Screenshot 2025-06-18 231311](https://github.com/user-attachments/assets/7593b98c-292d-473d-b6be-fe32595c1162)
