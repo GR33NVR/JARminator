@@ -20,5 +20,9 @@ The latest version is `V1.0.0`
 Feel free to let me know if there are any bugs or issues by dm'ing me on discord, my discord is gr33nvr.
 
 ## License
+Copyright (c) 2025 GR33NVR
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+All rights reserved.
+
+This software is proprietary and may not be copied, modified, distributed, or used in whole or in part without the prior written permission of the author.
+For more information see the [LICENSE](LICENSE) file.
